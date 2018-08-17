@@ -6,7 +6,7 @@ body {
     background: url('../images/bg.png');
     font-size: 18px;
     line-height: 34px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #333;
     padding-bottom: 20px;
 }
@@ -27,7 +27,7 @@ p:last-child {
 }
 
 h1, h2, h3 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto Slab', serif;
     font-weight: 700;
     color: #0b2b3b;
 }
@@ -65,7 +65,7 @@ a:hover {
     height: 90px;
     background: #0b2b3b;
     float: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Roboto Slab', serif;
     text-align: center;
     line-height: 90px;
     color: #fff;
